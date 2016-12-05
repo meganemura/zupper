@@ -2,7 +2,7 @@
 
 ## DESCRIPTION
 
-zupper is a tool for adding 'upstream' remote-tracking branch to your forked repository.
+zupper is a tool for adding repository named 'upstream' to your forked repository.
 
 ```
 $ cd forked_repo/
